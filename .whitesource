@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
-  },
+  },   
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
@@ -14,7 +14,7 @@
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
-    "workflowRules": {
+    "workflowRules": {    
       "enabled": true
     }
   }
